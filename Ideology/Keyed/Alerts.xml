@@ -4,7 +4,7 @@
   <!-- EN: Need slave beds -->
   <NeedSlaveBeds>Köle yataklarına ihtiyaç var</NeedSlaveBeds>
   <!-- EN: You have more slaves than you have slave beds. Someone will lack a place to sleep.\n\nEither make more beds, or change a colonist or prisoner bed to a slave bed.\n\nIf you have no resources, sleeping spots are free and can be placed instantly. -->
-  <NeedSlaveBedsDesc>Köle yataklarınızdan daha fazla köleniz var. Birisinin uyuyacak yeri olmayacak.\n\nYa daha fazla yatak yapın ya da bir sömürgeci ya da mahkum yatağını köle yatağına değiştirin.\n\nKaynak yoksa, uyku noktaları ücretsizdir ve anında yerleştirilebilir.</NeedSlaveBedsDesc>
+  <NeedSlaveBedsDesc>Sahip olduğunuz köle yataklarınızdan daha fazla köleniz var. Birisinin uyuyacak yeri olmayacak.\n\nYa daha fazla yatak yapın ya da bir sömürgeci ya da mahkum yatağını köle yatağına dönüştürün.\n\nEğer kaynağınız yoksa, uyku noktaları ücretsizdir ve anında yerleştirilebilir.</NeedSlaveBedsDesc>
 
   <!-- EN: Slave unsuppressed -->
   <SlavesUnsuppressedLabel>köle bastırılmamış</SlavesUnsuppressedLabel>
@@ -15,7 +15,7 @@
   <!-- EN: Slaves unattended -->
   <SlaveUnattendedMultipleLabel>gözetimsiz köleler</SlaveUnattendedMultipleLabel>
   <!-- EN: Some slaves are alone on a map with no able-bodied colonists around.\n\nSlaves left unattended like this are very likely to rebel within days or hours. -->
-  <SlavesUnattendedDesc>Bazı köleler, etrafta sağlıklı kolonistlerin olmadığı bir haritada yalnızdır.\n\nBu şekilde başıboş bırakılan kölelerin günler veya saatler içinde isyan etmesi çok muhtemeldir.</SlavesUnattendedDesc>
+  <SlavesUnattendedDesc>Bazı köleler etrafta sağlıklı kolonistlerin olmadığı bir haritada yalnızdır.\n\nBu şekilde başıboş bırakılan kölelerin günler veya saatler içinde isyan etmesi çok muhtemeldir.</SlavesUnattendedDesc>
 
   <!-- EN: {0} opportunity -->
   <RitualOpportunity>{0} fırsat</RitualOpportunity>
@@ -62,7 +62,7 @@
   <!-- EN: {0} roles unfilled -->
   <IdeoRolesEmpty>{0} roller doldurulmadı</IdeoRolesEmpty>
   <!-- EN: These roles are not filled:\n{0}\n\nYou can assign someone a role on their Social tab. You can also select a ritual spot or an altar and click 'Begin role change'. \n\nIf these roles remain empty, the following people will be unhappy -->
-  <IdeoRolesEmptyDesc>Bu roller doldurulmaz:\n{0}\n\nBirine Sosyal sekmesinde bir rol atayabilirsiniz. Ayrıca bir ritüel noktası veya bir sunak seçebilir ve 'Rol değişikliğine başla' seçeneğine tıklayabilirsiniz. \n\nBu roller boş kalırsa aşağıdaki kişiler mutsuz olur</IdeoRolesEmptyDesc>
+  <IdeoRolesEmptyDesc>Bu roller doldurulmadı:\n{0}\n\nBirine Sosyal sekmesinde bir rol atayabilirsiniz. Ayrıca bir ritüel noktası veya bir sunak seçebilir ve 'Rol değişikliğine başla' seçeneğine tıklayabilirsiniz. \n\nBu roller boş kalırsa aşağıdaki kişiler mutsuz olur</IdeoRolesEmptyDesc>
 
   <!-- EN: Security threats activated in {0} -->
   <AncientAltarThreatsWaking>{0} içinde güvenlik tehditleri etkinleştirildi</AncientAltarThreatsWaking>
