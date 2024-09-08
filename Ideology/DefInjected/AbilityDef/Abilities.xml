@@ -9,7 +9,7 @@
   <AnimalCalm.comps.CompAbilityEffect_StopManhunter.successMessage>{INITIATOR_labelShort}, {RECIPIENT_labelShort}'u başarıyla sakinleştirdi.</AnimalCalm.comps.CompAbilityEffect_StopManhunter.successMessage>
   
   <!-- EN: berserk trance -->
-  <BerserkTrance.label>berserk trans</BerserkTrance.label>
+  <BerserkTrance.label>Çılgın ruh hali</BerserkTrance.label>
   <!-- EN: The caster fills themself with anger over ideological grievances. This strengthens the body past normal limits, but also means losing control and attacking every enemy nearby in an unstoppable rage. The berserk state will last for 3 hours. -->
   <BerserkTrance.description>Caster, ideolojik şikayetler üzerine kendini öfkeyle doldurur. Bu, vücudu normal sınırları aşarak güçlendirir, ancak aynı zamanda kontrolü kaybetmek ve yakındaki her düşmana durdurulamaz bir öfkeyle saldırmak anlamına gelir. Çılgın hali 3 saat sürecek.</BerserkTrance.description>
   
@@ -49,7 +49,7 @@
   <FarmingCommand.description>Yakındaki herkes için çiftçilik yeteneklerini artırarak çiftçilik teknikleri hakkında rehberlik sunun. Etki, 24 saat boyunca casterı bağlı kalır.</FarmingCommand.description>
   
   <!-- EN: Immunity drive -->
-  <ImmunityDrive.label>bağışıklık sürücü</ImmunityDrive.label>
+  <ImmunityDrive.label>Bağışıklık geliştirme hızı</ImmunityDrive.label>
   <!-- EN: Offer moral support that energizes the body, boosting someone's immunity gain for one day. -->
   <ImmunityDrive.description>Vücuda enerji veren, birinin bir günlüğüne bağışıklık kazanmasını artıran ahlaki destek sunun.</ImmunityDrive.description>
   
@@ -96,7 +96,7 @@
   <Trial.description>Birini korkunç bir suçla suçlayın ve suçlu bulunacağı ya da aklanacağı bir yargılama başlatın. Hedef mahkum edilirse, özgürce hapsedilebilir, idam edilebilir veya cezasız olarak sürgün edilebilirler. Mahkumiyet şansı, suçlayanın ve suçlananın sosyal yeteneklerine bağlıdır.</Trial.description>
   
   <!-- EN: work drive -->
-  <WorkDrive.label>iş sürüşü</WorkDrive.label>
+  <WorkDrive.label>Çalışma motivasyonu</WorkDrive.label>
   <!-- EN: Call on a person to work harder for some time. -->
   <WorkDrive.description>Bir kişiyi bir süre daha çok çalışması için çağırın.</WorkDrive.description>
   
