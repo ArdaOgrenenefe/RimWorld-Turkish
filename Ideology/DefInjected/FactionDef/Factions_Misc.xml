@@ -35,15 +35,15 @@
   <NudistTribe.pawnsPlural>kabile üyeleri</NudistTribe.pawnsPlural>
   
   <!-- EN: pilgrims -->
-  <Pilgrims.label>hacılar</Pilgrims.label>
+  <Pilgrims.label>gezginler</Pilgrims.label>
   <!-- EN: A group of pilgrims seeking to venerate an ancient relic. -->
-  <Pilgrims.description>Eski bir kalıntıya hürmet etmek isteyen bir grup hacı.</Pilgrims.description>
+  <Pilgrims.description>Eski bir kalıntıya hürmet etmek isteyen bir grup gezgin.</Pilgrims.description>
   <!-- EN: leader -->
   <Pilgrims.leaderTitle>lider</Pilgrims.leaderTitle>
   <!-- EN: pilgrim -->
-  <Pilgrims.pawnSingular>hacı</Pilgrims.pawnSingular>
+  <Pilgrims.pawnSingular>gezgin</Pilgrims.pawnSingular>
   <!-- EN: pilgrims -->
-  <Pilgrims.pawnsPlural>hacılar</Pilgrims.pawnsPlural>
+  <Pilgrims.pawnsPlural>gezginler</Pilgrims.pawnsPlural>
   
   <!-- EN: cannibal tribe -->
   <TribeCannibal.label>yamyam kabilesi</TribeCannibal.label>
